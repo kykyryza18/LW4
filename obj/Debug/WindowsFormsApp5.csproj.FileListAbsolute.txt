@@ -1,0 +1,21 @@
+D:\Proga vvpd\visio\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\Proga vvpd\visio\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\Proga vvpd\visio\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\Proga vvpd\visio\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.exe
+C:\Users\жорик\Desktop\LB4-master\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\жорик\Desktop\LB4-master\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\жорик\Desktop\LB4-master\bin\Debug\WindowsFormsApp5.exe
+C:\Users\жорик\Desktop\LB4-master\bin\Debug\WindowsFormsApp5.pdb
